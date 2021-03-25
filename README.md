@@ -2,15 +2,15 @@
 Olivia Fenwick
 Meenu Ravi
 Flight Simulation Realtime Intelligent Systems Project
-March 18 2021
+18th March, 2021
 
 Libraries Used:
-- Pandas
-- numpy
+- pandas
+- NumPy
 - time
 - datetime
 - random
-- simpy
+- SimPy
 - Dash
 
 Instruction for running:
